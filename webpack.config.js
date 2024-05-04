@@ -5,7 +5,7 @@ module.exports = {
   entry: {
     ['global']: './src/global/index.js',
     ['home']: './src/home/index.js',
-    ['about']: './src/about/index.js',
+    ['join']: './src/join/index.js',
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
